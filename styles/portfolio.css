@@ -6,6 +6,11 @@
 .orange-text{
     color: #FD6E0A;
 }
+.orange-btn-primary{
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+}
 /* Logo part */
 .main-logo{
     font-family: 'Open Sans', sans-serif;
