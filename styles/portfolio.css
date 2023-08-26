@@ -7,9 +7,18 @@
     color: #FD6E0A;
 }
 .orange-btn-primary{
-    height: 64px;
+    height: 40px;
     border-radius: 5px;
     background: #FD6E0A;
+    border-style: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
 }
 /* Logo part */
 .main-logo{
@@ -28,8 +37,14 @@ nav{
 }
 nav ul{
     display: flex;
+    align-items: center;
 }
 nav li{
     list-style: none;
     margin-left: 60px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    color: #474747;
+    font-size: 20px;
+    font-weight: 400;
 }
